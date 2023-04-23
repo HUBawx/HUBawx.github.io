@@ -11,7 +11,7 @@
 
 ## 第二次作业
 ### 作业一：国内部分搜索引擎
-[作业一链接](https://HUBawx.github.io/search_engine.html)
+[作业一链接](https://HUBawx.github.io/search_engines.html)
 
 ### 作业二：北京大学校规校纪名词共现分析
-[作业二链接](https://HUBawx.github.io/co-occurrence_analysis.html)
+[作业二链接](https://HUBawx.github.io/北京大学校发校规校纪-名词关系图.html)
